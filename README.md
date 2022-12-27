@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br>
+
 ## 📊 GitHub stats
 
 ![JongwooParks's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongwooParks&theme=discord_old_blurple&show_icons=true)
