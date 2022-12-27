@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub stats
-![JongwooParks's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongwooParks&theme=synthwave&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JongwooParks&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![JongwooParks's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongwooParks&theme=cobalt&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JongwooParks&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
