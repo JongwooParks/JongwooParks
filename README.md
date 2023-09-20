@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 About Me :
-풀스택을 지향하는 백엔드 예비 개발자 박종우입니다.
+풀스택을 지향하는 백엔드 개발자 박종우입니다.
 
 
 <br/>
